@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MacwithaQ
+- 👀 I’m interested in web and mobile app development
+- 🌱 I’m currently learning javascript.
+- 📫 Reach me at MacwithaQ@gmail.com
