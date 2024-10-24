@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MacwithaQ
-- 👀 I’m interested in web and mobile app development
+- 👀 I’m interested in software engineering, web, and mobile app development
 - 🌱 I’m currently learning javascript.
-- 📫 Reach me at MacwithaQ@gmail.com
+- 📫 Reach me at maqallaf@gmail.com
