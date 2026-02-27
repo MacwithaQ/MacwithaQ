@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MacwithaQ
-- 👀 I’m interested in software engineering, web, and mobile app development
-- 💻 I am a recent Cornell MBA graduate with a strong interest in software and web development. I aim to build a solid technical foundation in programming and, over time, leverage this expertise alongside my MBA to lead product teams and create innovative products
+- 👋 Hi, I’m Mac.
+- 👀 I’m interested in data analytics, software engineering, web, and mobile app development
+- 💻 I am a recent Cornell MBA graduate with a strong interest in tech, data analytics, and business strategy. I aim to build a solid technical foundation in programming and, over time, leverage this expertise alongside my MBA to analyze data, lead corporate data strategy, and create innovative data driven solutions
 - 📫 Reach me at maqallaf@gmail.com
